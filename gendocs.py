@@ -13,7 +13,7 @@ Generates README.md documentation for https://github.com/redshift3d/RedshiftOSLS
 """
 
 __author__ = "Donovan Keith"
-__copyright__ = "Copyright 2022, Maxon"
+__copyright__ = "Copyright 2022, Maxon Computer GmbH"
 __credits__ = ["Donovan Keith"]
 __version__ = "0.1.0"
 __license__ = "MIT0"
